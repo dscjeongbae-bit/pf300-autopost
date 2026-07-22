@@ -1,0 +1,42 @@
+name: PF-300 카드뉴스 자동 게시
+
+on:
+  schedule:
+    # 월·수·금 02:00 UTC = 한국시간 11:00
+    - cron: "0 2 * * 1,3,5"
+  workflow_dispatch: {}   # 수동 실행(테스트) 버튼
+
+permissions:
+  contents: write         # state.json 커밋용
+
+concurrency:
+  group: ig-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성(토큰 자동저장용)
+        run: pip install pynacl
+
+      - name: 인스타그램 게시
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python post.py
+
+      - name: 진행상태 저장(state.json)
+        run: |
+          git config user.name "pf300-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git commit -m "chore: update state.json [skip ci]" || echo "변경 없음"
+          git push
