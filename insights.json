@@ -1,0 +1,819 @@
+{
+ "account": {
+  "username": "ilovewaterwel",
+  "followers_count": 1981,
+  "media_count": 553,
+  "id": "27535024122821547",
+  "checked_at": "2026-07-22T09:20:29+00:00"
+ },
+ "history": [
+  {
+   "date": "2026-07-22",
+   "followers_count": 1981,
+   "media_count": 553
+  }
+ ],
+ "media": {
+  "18171143728433956": {
+   "permalink": "https://www.instagram.com/p/DbFMDh8EZyq/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2026-07-22T04:04:05+0000",
+   "caption_excerpt": "[PF-300 카드뉴스 #1 — 인스타그램 캡션]  매일 몸에 닿는 샤워물, 그냥 틀고 계세요? 🚿  마시는 물은 정수기로 거르면서 샤워물은 왜",
+   "metrics": {
+    "reach": 14,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "views": 37
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18110088292975243": {
+   "permalink": "https://www.instagram.com/p/DbC5PnLGUhD/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-07-21T06:41:01+0000",
+   "caption_excerpt": "💦 워터웰 여름맞이 이벤트 💦  샤워기 헤드를 구매하면 리필필터를 추가로 증정해 드려요! 🎁  매일 사용하는 물, 깨끗한 필터로 더욱 산뜻하게 ",
+   "metrics": {
+    "reach": 21,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 30
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17870656080555630": {
+   "permalink": "https://www.instagram.com/reel/DakQLD-MQGu/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-07-09T09:05:16+0000",
+   "caption_excerpt": "광화문에 거인이 나타났습니다. 🌊  사실은… 매일 당신의 샤워기를 덮치는 \"보이지 않는 위협\" 이야기예요. 잔류염소·철·수은까지 걸러내는 PF-",
+   "metrics": {
+    "reach": 148,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 185
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18460437460119816": {
+   "permalink": "https://www.instagram.com/reel/DajVNHLNFJp/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-07-09T00:36:59+0000",
+   "caption_excerpt": "격하게 움직인 하루, 당신에게 주는 진짜 보상 🚿 쓰던 샤워기에 30초, 물이 부드러워지는 순간 샤워는 힐링이 됩니다. 먹는물 수질기준 60개 ",
+   "metrics": {
+    "reach": 123,
+    "likes": 0,
+    "comments": 2,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 134
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18456004954113398": {
+   "permalink": "https://www.instagram.com/p/DaUzEkuGROS/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-07-03T09:02:01+0000",
+   "caption_excerpt": "💙 워터웰 여름맞이 7월 이벤트 💙  여름철, 더 자주 사용하는 주방🚰 깨끗한 물을 위한 필터 교체도 지금이 딱!  🎁 파워필터 구매 시 리필필",
+   "metrics": {
+    "reach": 32,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 47
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18546782800078781": {
+   "permalink": "https://www.instagram.com/p/DaUx68OGb_T/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-07-03T08:51:58+0000",
+   "caption_excerpt": "💚 7월 한정 이벤트 OPEN!  싱크대 필터 헤드를 구매하면 ✨ 리필 필터 1개를 추가 증정해드립니다!  매일 사용하는 주방, 필터는 제때 교",
+   "metrics": {
+    "reach": 33,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 53
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17961270087136064": {
+   "permalink": "https://www.instagram.com/p/DZo9AL3mRHW/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-06-16T08:22:13+0000",
+   "caption_excerpt": "🌴💙 워터웰 6월 이벤트 OPEN!  로그인만 해도 자동 발급되는 전품목 10% 할인쿠폰🎁  여름철 물 사용이 많아지는 지금, 주방필터부터 샤워",
+   "metrics": {
+    "reach": 34,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 1,
+    "total_interactions": 1,
+    "views": 58
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18092543741360142": {
+   "permalink": "https://www.instagram.com/p/DZMBWsKGbAB/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-06-05T02:42:16+0000",
+   "caption_excerpt": "🌿✨ 매일 하는 샴푸, 두피부터 달라져야 합니다. ✨🌿  머릿결 관리만큼 중요한 두피 관리!  워터웰 비오틴 샴푸는 풍성한 거품으로 두피와 모발",
+   "metrics": {
+    "reach": 41,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 73
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18092900834109232": {
+   "permalink": "https://www.instagram.com/p/DZMA_qEmQpt/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-06-05T02:39:08+0000",
+   "caption_excerpt": "💧✨ 필터 교체, 지금이 가장 좋은 타이밍! ✨💧  샤워기, 세면대, 세탁기까지 🚿🚰🧺  우리 집 물이 지나가는 곳이라면 어디든 설치 가능한 워",
+   "metrics": {
+    "reach": 45,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 81
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18376268905161011": {
+   "permalink": "https://www.instagram.com/p/DZMATwgmZHC/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-06-05T02:33:08+0000",
+   "caption_excerpt": "🌊💙 6월 한정! 워터웰 2배 적립 쿠폰 발급 이벤트 💙🌊  필터 교체 고민 중이라면 지금이 가장 좋은 타이밍✨  샤워기 필터부터 세면대, 세탁",
+   "metrics": {
+    "reach": 36,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 64
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17863399317628545": {
+   "permalink": "https://www.instagram.com/p/DYgsGyDmdMc/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-05-19T06:49:15+0000",
+   "caption_excerpt": "🚨 필터 아직 안 바꾸셨나요? 눈에 안 보여도 교체 주기는 꼭 체크해야 해요 👀💦  지금 워터웰 리필 필터 💛 최대 25% 할인 👑 회원 등급별",
+   "metrics": {
+    "reach": 42,
+    "likes": 4,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 4,
+    "views": 56
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18102923986953403": {
+   "permalink": "https://www.instagram.com/p/DX-zKPjGV8c/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-05-06T02:56:43+0000",
+   "caption_excerpt": "🌿 5월 워터웰 이벤트 🌿  회원가입 & 로그인만 해도 할인쿠폰 4종 자동발급!  ✔ 3만원 이상 구매 시 1,500원 할인 ✔ 5만원 이상 구",
+   "metrics": {
+    "reach": 48,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 89
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18100499534083849": {
+   "permalink": "https://www.instagram.com/p/DX-y09WGatq/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-05-06T02:53:49+0000",
+   "caption_excerpt": "건강한 두피 관리를 위한 선택 ✨ 워터웰 비오틴 샴푸 특가 진행중!  풍성하고 부드러운 거품으로 두피와 모발을 깔끔하게 세정하고 비오틴 성분으로",
+   "metrics": {
+    "reach": 41,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 64
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18134180062519053": {
+   "permalink": "https://www.instagram.com/p/DWFn1aYGUzL/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-03-20T01:29:39+0000",
+   "caption_excerpt": "✨ 매일 사용하는 물, 더 맑고 깨끗하게! 세계 물의 날 기념, 워터웰 리필필터 ~15% 할인 ✨  다가오는 3월 22일, 물의 소중함을 되새기",
+   "metrics": {
+    "reach": 54,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 89
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18139053988498203": {
+   "permalink": "https://www.instagram.com/p/DWDJadRGQM0/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-03-19T02:25:21+0000",
+   "caption_excerpt": "매일 우리 가족 먹을 요리하고, 야채 씻고, 설거지하는 주방 수돗물💧 더 늦기 전에 싱크대 필터 교체하고 우리 가족 건강 챙기세요!😉  워터웰 ",
+   "metrics": {
+    "reach": 55,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 90
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17932412739210086": {
+   "permalink": "https://www.instagram.com/p/DViIcEmgKT8/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-03-06T06:41:53+0000",
+   "caption_excerpt": "🚰우리집 물 걱정? 더 이상 하지마세요! 🚰  샤워기, 세면대, 세탁기... 💧 수전마다 설치 케이스도 다르게 리필필터도 다르게 사야 했던 복잡",
+   "metrics": {
+    "reach": 52,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 83
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17904245226365192": {
+   "permalink": "https://www.instagram.com/p/DVh6tWNkrXU/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-03-06T04:41:55+0000",
+   "caption_excerpt": "🌸 봄맞이 욕실 단장, 시작하셨나요? 🌸  겨우내 묵은 피로를 씻어내고, 우리 집 욕실에도 산뜻한 봄을 맞이할 시간! 미세먼지와 황사가 잦아지는",
+   "metrics": {
+    "reach": 50,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 83
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17877361605398148": {
+   "permalink": "https://www.instagram.com/p/DU7AxAxkib_/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-02-19T02:04:28+0000",
+   "caption_excerpt": "워터웰 리필필터 증정위크 2차 시작🎊  지금 워터웰에서 베스트 상품인 A타입/B타입 리필필터를 구매하시면 필터를 하나 더! 드려요😍 회원등급할인",
+   "metrics": {
+    "reach": 55,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 103
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18065286503280355": {
+   "permalink": "https://www.instagram.com/p/DUrqCmuEvvw/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-02-13T02:57:17+0000",
+   "caption_excerpt": "#설이벤트  워터웰 스마트스토어 설맞이 쿠폰 팩 증정🎁  즐거운 설 명절, 더 즐거운 쇼핑 되시라고 네이버 스마트스토어 알림받기만 하면 즉시 지",
+   "metrics": {
+    "reach": 55,
+    "likes": 1,
+    "comments": 0,
+    "saved": 1,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 96
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17995639907877510": {
+   "permalink": "https://www.instagram.com/p/DUrnFdlEm6Q/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-02-13T02:31:27+0000",
+   "caption_excerpt": "#설이벤트   올 한 해도 건강하고 행복한 일만 가득하시길 바랍니다. 감사한 마음을 담아, 작은 선물을 준비했어요.  연휴 동안 여유롭게 쇼핑을",
+   "metrics": {
+    "reach": 40,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 81
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18090859250099477": {
+   "permalink": "https://www.instagram.com/reel/DUZeUdOCWWw/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-02-06T01:28:47+0000",
+   "caption_excerpt": "#고객리뷰  샤워기는 그대로, 물만 바꾸는 워터웰 파워필터🚿 @beautiful_haelle 님이 보내주신 감동의 간편 설치 영상 후기💚  ✨간",
+   "metrics": {
+    "reach": 182,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 229
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17878783644469645": {
+   "permalink": "https://www.instagram.com/reel/DUR1LoWiW1v/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-02-03T02:14:37+0000",
+   "caption_excerpt": "#고객후기  수돗물 냄새가 신경쓰이셨던 @or9ng 님이 보내주신 감동의 영상 후기 도착 💌  ✨간편 설치 🦠비교불가 불순물 필터링 🚿잔류염소 ",
+   "metrics": {
+    "reach": 223,
+    "likes": 4,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 5,
+    "views": 244
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17872404069531167": {
+   "permalink": "https://www.instagram.com/p/DUPLRYlkjiK/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-02-02T01:29:41+0000",
+   "caption_excerpt": "워터웰 리필필터 증정위크 시작🎊  지금 워터웰에선 샤워기용 리필필터를 구매하면 필터를 하나 더! 드리는 중✨ 회원등급할인 혜택까지 적용받고 최저",
+   "metrics": {
+    "reach": 49,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 83
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17955645630058236": {
+   "permalink": "https://www.instagram.com/reel/DUEzsRRDYuB/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-29T00:51:29+0000",
+   "caption_excerpt": "#고객리뷰  녹물에 고통받던 @bbuu824_world 님이 보내주신 감동의 영상 후기 도착 💌 안심하고 물 사용하실 수 있어서 기분이 좋으시다",
+   "metrics": {
+    "reach": 161,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 187
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18355748671203902": {
+   "permalink": "https://www.instagram.com/reel/DUABzuRD5kP/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-27T04:18:41+0000",
+   "caption_excerpt": "#고객리뷰  @happiness01000 님이 보내주신 감동의 영상 후기 💌 해바라기 샤워기에 설치해서 사용하고 계시데요💚  ✨간편 설치는 기본",
+   "metrics": {
+    "reach": 299,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "views": 343
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18440940457128802": {
+   "permalink": "https://www.instagram.com/p/DT9DA0kkp-J/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-01-26T00:31:11+0000",
+   "caption_excerpt": "1월 마지막 할인의 주인공은 누구?!✨ 워터웰 릴레이 할인전 종료임박⏰  1월의 마지막주, 매일 바뀌는 워터웰의 할인 품목을 확인하세요💧  회원",
+   "metrics": {
+    "reach": 47,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "views": 78
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18279704005303963": {
+   "permalink": "https://www.instagram.com/reel/DT1wSLUFbrB/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-23T04:33:22+0000",
+   "caption_excerpt": "#고객후기  @rina_minyoung 님이 보내주신 감동의 영상 후기 도착 💌  피부 당김이 심한 춥고 건조한 겨울 샤워❄️ 워터웰 비타민 캡",
+   "metrics": {
+    "reach": 202,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "views": 227
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18068805998170490": {
+   "permalink": "https://www.instagram.com/reel/DTwJ9p_jJ5M/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-21T00:22:07+0000",
+   "caption_excerpt": "#고객후기  (띵동🔔)  @jangbbak9 님의 워터웰 다용도 파워필터 후기가 도착했어요! 한눈에 확인하는 워터웰 대용량 다용도 파워필터 활용",
+   "metrics": {
+    "reach": 170,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 200
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18005074373836414": {
+   "permalink": "https://www.instagram.com/reel/DTrCgo7DAZ5/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-19T00:40:43+0000",
+   "caption_excerpt": "🦠비교불가 불순물 필터링 🚿잔류염소 완벽 제거 💧다용도 사용 가능 대용량 필터  @cloudbbang_guide 님의 워터웰 다용도 파워필터 후",
+   "metrics": {
+    "reach": 185,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 200
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18413376622185839": {
+   "permalink": "https://www.instagram.com/reel/DTj5VaeDgPY/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-16T06:06:21+0000",
+   "caption_excerpt": "🌪️강력한 수압 상승 🦠꼼꼼한 불순물 필터링 🚿잔류염소 완벽 제거 🌿아로마테라피 효과 ✨히알루론산, 세라마이드, 병풀추출물, 비타민C 함유로 1",
+   "metrics": {
+    "reach": 187,
+    "likes": 1,
+    "comments": 0,
+    "saved": 1,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 210
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18088951007084385": {
+   "permalink": "https://www.instagram.com/p/DTeHAbrEkxq/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-01-14T00:09:37+0000",
+   "caption_excerpt": "오직 워터웰 사이트에서만✨ 워터웰 패스트트랙권 1월 한정 판매 시작🎊  지금 패스트트랙권을 구매하시면 오늘부터 15% 추가 할인 혜택을 즉시 받",
+   "metrics": {
+    "reach": 50,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 77
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18117524140571870": {
+   "permalink": "https://www.instagram.com/reel/DTcJNhljhim/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-13T05:50:32+0000",
+   "caption_excerpt": "시린 이 계절에 소중한 내 피부를 관리하는 가장 첫번째 방법. 워터웰 비타민 캡슐 필터 샤워기🚿✨  온도차가 심하고 건조한 요즘같은 계절에 피부",
+   "metrics": {
+    "reach": 133,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 153
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18499358743074388": {
+   "permalink": "https://www.instagram.com/reel/DTZNvR7DEBN/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-12T02:32:33+0000",
+   "caption_excerpt": "춥고 건조한 겨울, 피부 건강을 위한 첫번째 방어막. 워터웰 비타민 캡슐 필터 샤워기🚿✨  가족의 피부 건강을 고민하는 haha_momstar_",
+   "metrics": {
+    "reach": 165,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 187
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18071912300104903": {
+   "permalink": "https://www.instagram.com/reel/DTRQs-djWdf/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-09T00:24:30+0000",
+   "caption_excerpt": "하루의 시작과 끝을 향기롭고 촉촉하게 만들어주는 워터웰 비타민 캡슐 필터 샤워기🚿  @jieuniya_0.0님과 워터웰 비타민 캡슐 필터 샤워기",
+   "metrics": {
+    "reach": 154,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 181
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17962933248010860": {
+   "permalink": "https://www.instagram.com/p/DTPO5LJEl5-/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-01-08T05:29:56+0000",
+   "caption_excerpt": "🌟새해맞이 행운복권 이벤트🌟 워터웰에서 상품 구매하면 꽝 없는 행운복권을 드려요! 최대 10만원 이용권 당첨의 기회를 얻을 수 있는 절호의 기회",
+   "metrics": {
+    "reach": 59,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 93
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18091605266485945": {
+   "permalink": "https://www.instagram.com/reel/DTOrA0pD4Xk/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-08T00:16:39+0000",
+   "caption_excerpt": "춥고 건조한 겨울, 소중한 내 피부 보습을 위한 가장 첫번째 단계 워터웰 비타민 캡슐 필터 샤워기🚿  @lee_hwa_jung 님과 워터웰 비타",
+   "metrics": {
+    "reach": 170,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 184
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18080699575956388": {
+   "permalink": "https://www.instagram.com/reel/DTMw6mmCUb7/",
+   "media_type": "VIDEO",
+   "timestamp": "2026-01-07T06:30:52+0000",
+   "caption_excerpt": "우리 가족 피부건강을 위한 가장 첫번째 단계 워터웰 비타민 캡슐 필터 샤워기🚿✨  센스있는 @bichon_kanchyo님의 가정에 워터웰 비타민",
+   "metrics": {
+    "reach": 163,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 186
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18149901724431017": {
+   "permalink": "https://www.instagram.com/p/DTHBEjGEmhq/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-01-05T00:55:14+0000",
+   "caption_excerpt": "🌟새해맞이 다시 돌아온 릴레이 할인 이벤트🌟 오늘의 할인은 누구?! 워터웰에서 매일 다른 품목, 매일 다른 할인을 만나보세요!  💚 매주 월요일",
+   "metrics": {
+    "reach": 51,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 79
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18085969469280084": {
+   "permalink": "https://www.instagram.com/p/DS_PG3zkotU/",
+   "media_type": "IMAGE",
+   "timestamp": "2026-01-02T00:23:57+0000",
+   "caption_excerpt": "✨워터웰 새해 맞이 깜짝 할인쿠폰 증정✨  🌟 EVENT 1: 깜짝 5천원 할인 쿠폰 🌟 지금 워터웰에 로그인or알림받기 동의하시면 5천원 할인",
+   "metrics": {
+    "reach": 62,
+    "likes": 3,
+    "comments": 0,
+    "saved": 1,
+    "shares": 0,
+    "total_interactions": 4,
+    "views": 110
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17924592429049565": {
+   "permalink": "https://www.instagram.com/p/DSWChtGEud_/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-12-17T00:25:10+0000",
+   "caption_excerpt": "🎄 워터웰 2025년 결산 세일 2탄 오픈 🥳  🌟 EVENT 1: 리필필터 전체 할인 🌟 워터웰에 회원가입/로그인하고 워터웰 필터 본품을 구매",
+   "metrics": {
+    "reach": 63,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 160
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18056141042329099": {
+   "permalink": "https://www.instagram.com/p/DSQ5Tl7kt-L/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-12-15T00:28:23+0000",
+   "caption_excerpt": "🎄 워터웰X스마트스토어🎄 2025년 결산 세일 오픈🌟  🎁 EVENT 1: 필터 본품 할인 🎁 1년간 스마트스토어에서 가장 많이 사랑 받았던 워",
+   "metrics": {
+    "reach": 55,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 171
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18075247766258388": {
+   "permalink": "https://www.instagram.com/p/DRvezCtkhhc/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-12-02T01:01:49+0000",
+   "caption_excerpt": "🚨 올해 마지막 할인 혜택, 놓치지 마세요! 🚨 기다리셨던 워터웰 X 네이버 강세일이 시작됩니다!🤩 단 14일간, 지금껏 없었던 놀라운 가격과 ",
+   "metrics": {
+    "reach": 54,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "views": 298
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17884427091407708": {
+   "permalink": "https://www.instagram.com/p/DRttmhwknG_/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-12-01T08:32:42+0000",
+   "caption_excerpt": "🎄 워터웰 2025년 결산 세일 오픈 🥳  🌟 EVENT 1: 싱크대 필터 / 샤워기 본품 할인 🌟 워터웰에 회원가입/로그인하고 워터웰 필터 본",
+   "metrics": {
+    "reach": 48,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 286
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18330444610214441": {
+   "permalink": "https://www.instagram.com/p/DRLd6YLkoBc/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-11-18T01:21:25+0000",
+   "caption_excerpt": "🎁워터웰 스마트스토어 단독! 🍁가을 클리어런스 세일 할인 쿠폰 3종  지금 워터웰 스마트스토어에서 소식 알림받기 동의하시면 할인쿠폰을 드려요! ",
+   "metrics": {
+    "reach": 50,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 446
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18074760454991197": {
+   "permalink": "https://www.instagram.com/p/DRIzSzmkmEc/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-11-17T00:30:32+0000",
+   "caption_excerpt": "🎁워터웰 2025년 기프트 & 쿠폰 위크 오픈 🥳  🌟 EVENT 1: 리필 필터 구매하면 필터 추가 증정 🌟 2025년에도 가장 많이 사랑받은",
+   "metrics": {
+    "reach": 54,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2,
+    "views": 413
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18069140624063446": {
+   "permalink": "https://www.instagram.com/p/DQp_OI0kpZp/",
+   "media_type": "IMAGE",
+   "timestamp": "2025-11-05T01:18:18+0000",
+   "caption_excerpt": "🍁 알뜰 소비의 완성, B급 깜짝 판매! 워터웰 거위목/코브라 싱크대용 필터를 지금 특별한 가격으로 만나보세요!  👉 약간의 스크래치가 있는 B",
+   "metrics": {
+    "reach": 56,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 486
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17900333175161330": {
+   "permalink": "https://www.instagram.com/p/DQacYSikn1N/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2025-10-30T00:25:14+0000",
+   "caption_excerpt": "🍁 **가을 쇼핑은 지금이 기회! 설렘 가득 코리아 세일 페스타**  가을 바람과 함께 찾아온, 대한민국을 들썩이게 할 최대 쇼핑 축제. 코리아",
+   "metrics": {
+    "reach": 53,
+    "likes": 4,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 4,
+    "views": 586
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18070472654462212": {
+   "permalink": "https://www.instagram.com/p/DQX5jLyEhik/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2025-10-29T00:42:25+0000",
+   "caption_excerpt": "🚨 역대급 할인 혜택, 놓치지 마세요! 🚨 드디어 기다리셨던 워터웰 X 네이버 넾다세일이 시작됩니다!🤩 단 14일간, 지금껏 없었던 놀라운 가격",
+   "metrics": {
+    "reach": 78,
+    "likes": 5,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 5,
+    "views": 670
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18028365038733146": {
+   "permalink": "https://www.instagram.com/reel/DQJBczYjFXP/",
+   "media_type": "VIDEO",
+   "timestamp": "2025-10-23T06:03:06+0000",
+   "caption_excerpt": "🚨 광주 지역 한정 특별 지원 이벤트! 🚨  최근 광주 지역의 수돗물 이슈로 인해 많은 분들이 불안해하고 계시죠💧  워터웰은 깨끗하고 안심할 수",
+   "metrics": {
+    "reach": 229,
+    "likes": 2,
+    "comments": 0,
+    "saved": 6,
+    "shares": 2,
+    "total_interactions": 10,
+    "views": 302
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "17877394749323976": {
+   "permalink": "https://www.instagram.com/p/DQIcLTPEucE/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2025-10-23T00:37:08+0000",
+   "caption_excerpt": "💧 워터웰, 2025 오송 화장품·뷰티산업엑스포 참가! 💧 청정한 물의 힘으로 완성되는 워터웰의 필터 & 뷰티 솔루션✨ 이번 오송 뷰티엑스포 현",
+   "metrics": {
+    "reach": 92,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "views": 783
+   },
+   "checked_at": "2026-07-22T09:20:29+00:00"
+  }
+ },
+ "updated_at": "2026-07-22T09:20:29+00:00"
+}
