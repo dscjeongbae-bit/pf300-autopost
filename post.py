@@ -16,7 +16,7 @@
 import json, os, sys, time, glob
 import urllib.request, urllib.parse, urllib.error
 
-GRAPH = "https://graph.instagram.com/v23.0"
+GRAPH = os.environ.get("IG_API_BASE", "https://graph.instagram.com")
 REPO = os.environ.get("GITHUB_REPOSITORY", "")   # "owner/name"
 BRANCH = "main"
 ROOT = os.path.dirname(os.path.abspath(__file__))
