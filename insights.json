@@ -1,16 +1,21 @@
 {
  "account": {
   "username": "ilovewaterwel",
-  "followers_count": 1981,
-  "media_count": 553,
+  "followers_count": 1980,
+  "media_count": 554,
   "id": "27535024122821547",
-  "checked_at": "2026-07-22T09:20:29+00:00"
+  "checked_at": "2026-07-23T00:57:50+00:00"
  },
  "history": [
   {
    "date": "2026-07-22",
    "followers_count": 1981,
    "media_count": 553
+  },
+  {
+   "date": "2026-07-23",
+   "followers_count": 1980,
+   "media_count": 554
   }
  ],
  "media": {
@@ -20,15 +25,15 @@
    "timestamp": "2026-07-22T04:04:05+0000",
    "caption_excerpt": "[PF-300 카드뉴스 #1 — 인스타그램 캡션]  매일 몸에 닿는 샤워물, 그냥 틀고 계세요? 🚿  마시는 물은 정수기로 거르면서 샤워물은 왜",
    "metrics": {
-    "reach": 14,
+    "reach": 18,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 37
+    "views": 45
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18110088292975243": {
    "permalink": "https://www.instagram.com/p/DbC5PnLGUhD/",
@@ -44,7 +49,7 @@
     "total_interactions": 1,
     "views": 30
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17870656080555630": {
    "permalink": "https://www.instagram.com/reel/DakQLD-MQGu/",
@@ -60,7 +65,7 @@
     "total_interactions": 2,
     "views": 185
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18460437460119816": {
    "permalink": "https://www.instagram.com/reel/DajVNHLNFJp/",
@@ -76,7 +81,7 @@
     "total_interactions": 2,
     "views": 134
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18456004954113398": {
    "permalink": "https://www.instagram.com/p/DaUzEkuGROS/",
@@ -92,7 +97,7 @@
     "total_interactions": 1,
     "views": 47
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18546782800078781": {
    "permalink": "https://www.instagram.com/p/DaUx68OGb_T/",
@@ -108,7 +113,7 @@
     "total_interactions": 1,
     "views": 53
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17961270087136064": {
    "permalink": "https://www.instagram.com/p/DZo9AL3mRHW/",
@@ -124,7 +129,7 @@
     "total_interactions": 1,
     "views": 58
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18092543741360142": {
    "permalink": "https://www.instagram.com/p/DZMBWsKGbAB/",
@@ -140,7 +145,7 @@
     "total_interactions": 2,
     "views": 73
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18092900834109232": {
    "permalink": "https://www.instagram.com/p/DZMA_qEmQpt/",
@@ -156,7 +161,7 @@
     "total_interactions": 1,
     "views": 81
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18376268905161011": {
    "permalink": "https://www.instagram.com/p/DZMATwgmZHC/",
@@ -172,7 +177,7 @@
     "total_interactions": 2,
     "views": 64
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17863399317628545": {
    "permalink": "https://www.instagram.com/p/DYgsGyDmdMc/",
@@ -188,7 +193,7 @@
     "total_interactions": 4,
     "views": 56
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18102923986953403": {
    "permalink": "https://www.instagram.com/p/DX-zKPjGV8c/",
@@ -204,7 +209,7 @@
     "total_interactions": 3,
     "views": 89
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18100499534083849": {
    "permalink": "https://www.instagram.com/p/DX-y09WGatq/",
@@ -220,7 +225,7 @@
     "total_interactions": 3,
     "views": 64
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18134180062519053": {
    "permalink": "https://www.instagram.com/p/DWFn1aYGUzL/",
@@ -236,7 +241,7 @@
     "total_interactions": 1,
     "views": 89
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18139053988498203": {
    "permalink": "https://www.instagram.com/p/DWDJadRGQM0/",
@@ -252,7 +257,7 @@
     "total_interactions": 2,
     "views": 90
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17932412739210086": {
    "permalink": "https://www.instagram.com/p/DViIcEmgKT8/",
@@ -268,7 +273,7 @@
     "total_interactions": 3,
     "views": 83
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17904245226365192": {
    "permalink": "https://www.instagram.com/p/DVh6tWNkrXU/",
@@ -284,7 +289,7 @@
     "total_interactions": 1,
     "views": 83
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17877361605398148": {
    "permalink": "https://www.instagram.com/p/DU7AxAxkib_/",
@@ -300,7 +305,7 @@
     "total_interactions": 1,
     "views": 103
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18065286503280355": {
    "permalink": "https://www.instagram.com/p/DUrqCmuEvvw/",
@@ -316,7 +321,7 @@
     "total_interactions": 2,
     "views": 96
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17995639907877510": {
    "permalink": "https://www.instagram.com/p/DUrnFdlEm6Q/",
@@ -332,7 +337,7 @@
     "total_interactions": 1,
     "views": 81
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18090859250099477": {
    "permalink": "https://www.instagram.com/reel/DUZeUdOCWWw/",
@@ -348,7 +353,7 @@
     "total_interactions": 1,
     "views": 229
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17878783644469645": {
    "permalink": "https://www.instagram.com/reel/DUR1LoWiW1v/",
@@ -364,7 +369,7 @@
     "total_interactions": 5,
     "views": 244
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17872404069531167": {
    "permalink": "https://www.instagram.com/p/DUPLRYlkjiK/",
@@ -380,7 +385,7 @@
     "total_interactions": 1,
     "views": 83
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17955645630058236": {
    "permalink": "https://www.instagram.com/reel/DUEzsRRDYuB/",
@@ -396,7 +401,7 @@
     "total_interactions": 1,
     "views": 187
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18355748671203902": {
    "permalink": "https://www.instagram.com/reel/DUABzuRD5kP/",
@@ -412,7 +417,7 @@
     "total_interactions": 0,
     "views": 343
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18440940457128802": {
    "permalink": "https://www.instagram.com/p/DT9DA0kkp-J/",
@@ -428,7 +433,7 @@
     "total_interactions": 0,
     "views": 78
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18279704005303963": {
    "permalink": "https://www.instagram.com/reel/DT1wSLUFbrB/",
@@ -444,7 +449,7 @@
     "total_interactions": 0,
     "views": 227
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18068805998170490": {
    "permalink": "https://www.instagram.com/reel/DTwJ9p_jJ5M/",
@@ -460,7 +465,7 @@
     "total_interactions": 1,
     "views": 200
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18005074373836414": {
    "permalink": "https://www.instagram.com/reel/DTrCgo7DAZ5/",
@@ -476,7 +481,7 @@
     "total_interactions": 3,
     "views": 200
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18413376622185839": {
    "permalink": "https://www.instagram.com/reel/DTj5VaeDgPY/",
@@ -492,7 +497,7 @@
     "total_interactions": 2,
     "views": 210
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18088951007084385": {
    "permalink": "https://www.instagram.com/p/DTeHAbrEkxq/",
@@ -508,7 +513,7 @@
     "total_interactions": 1,
     "views": 77
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18117524140571870": {
    "permalink": "https://www.instagram.com/reel/DTcJNhljhim/",
@@ -524,7 +529,7 @@
     "total_interactions": 1,
     "views": 153
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18499358743074388": {
    "permalink": "https://www.instagram.com/reel/DTZNvR7DEBN/",
@@ -540,7 +545,7 @@
     "total_interactions": 2,
     "views": 187
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18071912300104903": {
    "permalink": "https://www.instagram.com/reel/DTRQs-djWdf/",
@@ -556,7 +561,7 @@
     "total_interactions": 1,
     "views": 181
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17962933248010860": {
    "permalink": "https://www.instagram.com/p/DTPO5LJEl5-/",
@@ -572,7 +577,7 @@
     "total_interactions": 2,
     "views": 93
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18091605266485945": {
    "permalink": "https://www.instagram.com/reel/DTOrA0pD4Xk/",
@@ -588,7 +593,7 @@
     "total_interactions": 3,
     "views": 184
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18080699575956388": {
    "permalink": "https://www.instagram.com/reel/DTMw6mmCUb7/",
@@ -604,7 +609,7 @@
     "total_interactions": 3,
     "views": 186
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18149901724431017": {
    "permalink": "https://www.instagram.com/p/DTHBEjGEmhq/",
@@ -620,7 +625,7 @@
     "total_interactions": 2,
     "views": 79
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18085969469280084": {
    "permalink": "https://www.instagram.com/p/DS_PG3zkotU/",
@@ -636,7 +641,7 @@
     "total_interactions": 4,
     "views": 110
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17924592429049565": {
    "permalink": "https://www.instagram.com/p/DSWChtGEud_/",
@@ -652,7 +657,7 @@
     "total_interactions": 3,
     "views": 160
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18056141042329099": {
    "permalink": "https://www.instagram.com/p/DSQ5Tl7kt-L/",
@@ -668,7 +673,7 @@
     "total_interactions": 3,
     "views": 171
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18075247766258388": {
    "permalink": "https://www.instagram.com/p/DRvezCtkhhc/",
@@ -684,7 +689,7 @@
     "total_interactions": 0,
     "views": 298
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17884427091407708": {
    "permalink": "https://www.instagram.com/p/DRttmhwknG_/",
@@ -700,7 +705,7 @@
     "total_interactions": 2,
     "views": 286
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18330444610214441": {
    "permalink": "https://www.instagram.com/p/DRLd6YLkoBc/",
@@ -716,7 +721,7 @@
     "total_interactions": 2,
     "views": 446
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18074760454991197": {
    "permalink": "https://www.instagram.com/p/DRIzSzmkmEc/",
@@ -732,7 +737,7 @@
     "total_interactions": 2,
     "views": 413
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18069140624063446": {
    "permalink": "https://www.instagram.com/p/DQp_OI0kpZp/",
@@ -748,7 +753,7 @@
     "total_interactions": 3,
     "views": 486
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17900333175161330": {
    "permalink": "https://www.instagram.com/p/DQacYSikn1N/",
@@ -764,7 +769,7 @@
     "total_interactions": 4,
     "views": 586
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18070472654462212": {
    "permalink": "https://www.instagram.com/p/DQX5jLyEhik/",
@@ -780,7 +785,7 @@
     "total_interactions": 5,
     "views": 670
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "18028365038733146": {
    "permalink": "https://www.instagram.com/reel/DQJBczYjFXP/",
@@ -796,7 +801,7 @@
     "total_interactions": 10,
     "views": 302
    },
-   "checked_at": "2026-07-22T09:20:29+00:00"
+   "checked_at": "2026-07-23T00:57:50+00:00"
   },
   "17877394749323976": {
    "permalink": "https://www.instagram.com/p/DQIcLTPEucE/",
@@ -813,7 +818,23 @@
     "views": 783
    },
    "checked_at": "2026-07-22T09:20:29+00:00"
+  },
+  "18060316460749925": {
+   "permalink": "https://www.instagram.com/p/DbGR5y9lgex/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2026-07-22T14:14:23+0000",
+   "caption_excerpt": "샤워하고 나면 유독 몸이 가렵고 당기시나요? 그냥 건성 피부라서가 아닐 수 있어요.  수돗물엔 소독을 위한 잔류염소가 남아 있고, 뜨거운 물로 ",
+   "metrics": {
+    "reach": 39,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 73
+   },
+   "checked_at": "2026-07-23T00:57:50+00:00"
   }
  },
- "updated_at": "2026-07-22T09:20:29+00:00"
+ "updated_at": "2026-07-23T00:57:50+00:00"
 }
