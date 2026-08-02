@@ -1,10 +1,10 @@
 {
  "account": {
   "username": "ilovewaterwel",
-  "followers_count": 1977,
-  "media_count": 563,
+  "followers_count": 1976,
+  "media_count": 564,
   "id": "27535024122821547",
-  "checked_at": "2026-08-01T01:00:06+00:00"
+  "checked_at": "2026-08-02T01:03:26+00:00"
  },
  "history": [
   {
@@ -61,6 +61,11 @@
    "date": "2026-08-01",
    "followers_count": 1977,
    "media_count": 563
+  },
+  {
+   "date": "2026-08-02",
+   "followers_count": 1976,
+   "media_count": 564
   }
  ],
  "media": {
@@ -70,15 +75,15 @@
    "timestamp": "2026-07-22T04:04:05+0000",
    "caption_excerpt": "[PF-300 카드뉴스 #1 — 인스타그램 캡션]  매일 몸에 닿는 샤워물, 그냥 틀고 계세요? 🚿  마시는 물은 정수기로 거르면서 샤워물은 왜",
    "metrics": {
-    "reach": 36,
+    "reach": 38,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 87
+    "views": 91
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18110088292975243": {
    "permalink": "https://www.instagram.com/p/DbC5PnLGUhD/",
@@ -94,7 +99,7 @@
     "total_interactions": 1,
     "views": 40
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17870656080555630": {
    "permalink": "https://www.instagram.com/reel/DakQLD-MQGu/",
@@ -110,7 +115,7 @@
     "total_interactions": 2,
     "views": 185
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18460437460119816": {
    "permalink": "https://www.instagram.com/reel/DajVNHLNFJp/",
@@ -126,7 +131,7 @@
     "total_interactions": 2,
     "views": 134
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18456004954113398": {
    "permalink": "https://www.instagram.com/p/DaUzEkuGROS/",
@@ -142,7 +147,7 @@
     "total_interactions": 1,
     "views": 47
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18546782800078781": {
    "permalink": "https://www.instagram.com/p/DaUx68OGb_T/",
@@ -158,7 +163,7 @@
     "total_interactions": 1,
     "views": 53
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17961270087136064": {
    "permalink": "https://www.instagram.com/p/DZo9AL3mRHW/",
@@ -174,7 +179,7 @@
     "total_interactions": 1,
     "views": 58
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18092543741360142": {
    "permalink": "https://www.instagram.com/p/DZMBWsKGbAB/",
@@ -190,7 +195,7 @@
     "total_interactions": 2,
     "views": 73
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18092900834109232": {
    "permalink": "https://www.instagram.com/p/DZMA_qEmQpt/",
@@ -206,7 +211,7 @@
     "total_interactions": 1,
     "views": 81
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18376268905161011": {
    "permalink": "https://www.instagram.com/p/DZMATwgmZHC/",
@@ -222,7 +227,7 @@
     "total_interactions": 2,
     "views": 64
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17863399317628545": {
    "permalink": "https://www.instagram.com/p/DYgsGyDmdMc/",
@@ -238,7 +243,7 @@
     "total_interactions": 4,
     "views": 56
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18102923986953403": {
    "permalink": "https://www.instagram.com/p/DX-zKPjGV8c/",
@@ -254,7 +259,7 @@
     "total_interactions": 3,
     "views": 89
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18100499534083849": {
    "permalink": "https://www.instagram.com/p/DX-y09WGatq/",
@@ -270,7 +275,7 @@
     "total_interactions": 3,
     "views": 64
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18134180062519053": {
    "permalink": "https://www.instagram.com/p/DWFn1aYGUzL/",
@@ -286,7 +291,7 @@
     "total_interactions": 1,
     "views": 89
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18139053988498203": {
    "permalink": "https://www.instagram.com/p/DWDJadRGQM0/",
@@ -302,7 +307,7 @@
     "total_interactions": 2,
     "views": 90
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17932412739210086": {
    "permalink": "https://www.instagram.com/p/DViIcEmgKT8/",
@@ -318,7 +323,7 @@
     "total_interactions": 3,
     "views": 83
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17904245226365192": {
    "permalink": "https://www.instagram.com/p/DVh6tWNkrXU/",
@@ -334,7 +339,7 @@
     "total_interactions": 1,
     "views": 83
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17877361605398148": {
    "permalink": "https://www.instagram.com/p/DU7AxAxkib_/",
@@ -350,7 +355,7 @@
     "total_interactions": 1,
     "views": 103
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18065286503280355": {
    "permalink": "https://www.instagram.com/p/DUrqCmuEvvw/",
@@ -366,7 +371,7 @@
     "total_interactions": 2,
     "views": 96
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17995639907877510": {
    "permalink": "https://www.instagram.com/p/DUrnFdlEm6Q/",
@@ -382,7 +387,7 @@
     "total_interactions": 1,
     "views": 81
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18090859250099477": {
    "permalink": "https://www.instagram.com/reel/DUZeUdOCWWw/",
@@ -398,7 +403,7 @@
     "total_interactions": 1,
     "views": 229
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17878783644469645": {
    "permalink": "https://www.instagram.com/reel/DUR1LoWiW1v/",
@@ -414,7 +419,7 @@
     "total_interactions": 5,
     "views": 244
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17872404069531167": {
    "permalink": "https://www.instagram.com/p/DUPLRYlkjiK/",
@@ -430,7 +435,7 @@
     "total_interactions": 1,
     "views": 83
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17955645630058236": {
    "permalink": "https://www.instagram.com/reel/DUEzsRRDYuB/",
@@ -446,7 +451,7 @@
     "total_interactions": 1,
     "views": 187
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18355748671203902": {
    "permalink": "https://www.instagram.com/reel/DUABzuRD5kP/",
@@ -462,7 +467,7 @@
     "total_interactions": 0,
     "views": 343
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18440940457128802": {
    "permalink": "https://www.instagram.com/p/DT9DA0kkp-J/",
@@ -478,7 +483,7 @@
     "total_interactions": 0,
     "views": 78
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18279704005303963": {
    "permalink": "https://www.instagram.com/reel/DT1wSLUFbrB/",
@@ -494,7 +499,7 @@
     "total_interactions": 0,
     "views": 227
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18068805998170490": {
    "permalink": "https://www.instagram.com/reel/DTwJ9p_jJ5M/",
@@ -510,7 +515,7 @@
     "total_interactions": 1,
     "views": 200
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18005074373836414": {
    "permalink": "https://www.instagram.com/reel/DTrCgo7DAZ5/",
@@ -526,7 +531,7 @@
     "total_interactions": 3,
     "views": 200
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18413376622185839": {
    "permalink": "https://www.instagram.com/reel/DTj5VaeDgPY/",
@@ -542,7 +547,7 @@
     "total_interactions": 2,
     "views": 210
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18088951007084385": {
    "permalink": "https://www.instagram.com/p/DTeHAbrEkxq/",
@@ -558,7 +563,7 @@
     "total_interactions": 1,
     "views": 77
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18117524140571870": {
    "permalink": "https://www.instagram.com/reel/DTcJNhljhim/",
@@ -574,7 +579,7 @@
     "total_interactions": 1,
     "views": 153
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18499358743074388": {
    "permalink": "https://www.instagram.com/reel/DTZNvR7DEBN/",
@@ -590,7 +595,7 @@
     "total_interactions": 2,
     "views": 187
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18071912300104903": {
    "permalink": "https://www.instagram.com/reel/DTRQs-djWdf/",
@@ -606,7 +611,7 @@
     "total_interactions": 1,
     "views": 181
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17962933248010860": {
    "permalink": "https://www.instagram.com/p/DTPO5LJEl5-/",
@@ -622,7 +627,7 @@
     "total_interactions": 2,
     "views": 93
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18091605266485945": {
    "permalink": "https://www.instagram.com/reel/DTOrA0pD4Xk/",
@@ -638,7 +643,7 @@
     "total_interactions": 3,
     "views": 184
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18080699575956388": {
    "permalink": "https://www.instagram.com/reel/DTMw6mmCUb7/",
@@ -654,7 +659,7 @@
     "total_interactions": 3,
     "views": 186
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18149901724431017": {
    "permalink": "https://www.instagram.com/p/DTHBEjGEmhq/",
@@ -670,7 +675,7 @@
     "total_interactions": 2,
     "views": 79
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18085969469280084": {
    "permalink": "https://www.instagram.com/p/DS_PG3zkotU/",
@@ -686,7 +691,7 @@
     "total_interactions": 4,
     "views": 110
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17924592429049565": {
    "permalink": "https://www.instagram.com/p/DSWChtGEud_/",
@@ -878,7 +883,7 @@
     "total_interactions": 1,
     "views": 167
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17980252415878866": {
    "permalink": "https://www.instagram.com/p/DbI3ybzoCdm/",
@@ -886,7 +891,7 @@
    "timestamp": "2026-07-23T14:23:56+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 54,
+    "reach": 55,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -894,7 +899,7 @@
     "total_interactions": 1,
     "views": 105
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18604761604052513": {
    "permalink": "https://www.instagram.com/p/DbLaHKGoJo6/",
@@ -902,7 +907,7 @@
    "timestamp": "2026-07-24T14:02:20+0000",
    "caption_excerpt": "흰 수건이 누렇게 변한 적 있나요? 🚿  수압 약할 때 잠깐 나오는 누런 물 — 배관에서 녹아 나온 철입니다. 정수장에선 깨끗했어도, 우리 집 ",
    "metrics": {
-    "reach": 30,
+    "reach": 31,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -910,7 +915,7 @@
     "total_interactions": 1,
     "views": 90
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18096054119366311": {
    "permalink": "https://www.instagram.com/p/DbN9xEXG3ja/",
@@ -926,7 +931,7 @@
     "total_interactions": 0,
     "views": 57
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18369561052226981": {
    "permalink": "https://www.instagram.com/p/DbQhtprlGuy/",
@@ -934,15 +939,15 @@
    "timestamp": "2026-07-26T13:44:57+0000",
    "caption_excerpt": "매일 쓰는 샤워기 헤드, 물 나오는 구멍 안쪽 들여다본 적 있으세요? 생각보다 지저분할 수 있어요.  물속 미네랄과 습기가 만나면 노즐 안쪽에 ",
    "metrics": {
-    "reach": 68,
+    "reach": 69,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 147
+    "views": 149
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18075890639359484": {
    "permalink": "https://www.instagram.com/p/DbTOXFYnKyb/",
@@ -950,15 +955,15 @@
    "timestamp": "2026-07-27T14:53:33+0000",
    "caption_excerpt": "물 온도 하나 바꿨을 뿐인데 샤워 후 피부가 달라져요.  뜨거울수록 좋은 게 아니에요. 너무 뜨거운 물은 피부의 유·수분막을 필요 이상으로 씻어",
    "metrics": {
-    "reach": 43,
+    "reach": 46,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 97
+    "views": 99
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17918466090199673": {
    "permalink": "https://www.instagram.com/p/DbVwNUamvV5/",
@@ -966,15 +971,15 @@
    "timestamp": "2026-07-28T14:27:50+0000",
    "caption_excerpt": "환절기만 되면 온몸이 건조하고 가렵다면, 보습제만으론 부족할 수 있어요.  일교차와 낮아진 습도로 피부 장벽이 약해지는 시기예요. 이때 매일 하",
    "metrics": {
-    "reach": 36,
+    "reach": 37,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 75
+    "views": 77
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18105297958986457": {
    "permalink": "https://www.instagram.com/p/DbYUwjDlH1f/",
@@ -988,9 +993,9 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 53
+    "views": 57
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "18091580219408324": {
    "permalink": "https://www.instagram.com/p/Dba5S3ZloTW/",
@@ -998,15 +1003,15 @@
    "timestamp": "2026-07-30T14:23:26+0000",
    "caption_excerpt": "샤워하고 나면 유독 몸이 가렵고 당기시나요? 그냥 건성 피부라서가 아닐 수 있어요.  수돗물엔 소독을 위한 잔류염소가 남아 있고, 뜨거운 물로 ",
    "metrics": {
-    "reach": 25,
+    "reach": 26,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 58
+    "views": 67
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
   },
   "17896353945372697": {
    "permalink": "https://www.instagram.com/p/Dbdec-Hlnna/",
@@ -1014,16 +1019,32 @@
    "timestamp": "2026-07-31T14:26:35+0000",
    "caption_excerpt": "매일 몸에 닿는 샤워물, 그냥 틀고 계세요? 🚿  마시는 물은 정수기로 거르면서 샤워물은 왜 그냥 쓸까요?  워터웰 PF-300 파워필터는 ✔ ",
    "metrics": {
-    "reach": 13,
+    "reach": 16,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 26
+    "views": 42
    },
-   "checked_at": "2026-08-01T01:00:06+00:00"
+   "checked_at": "2026-08-02T01:03:26+00:00"
+  },
+  "17881948758476242": {
+   "permalink": "https://www.instagram.com/p/Dbf-cg9oE88/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2026-08-01T13:44:38+0000",
+   "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
+   "metrics": {
+    "reach": 24,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "views": 39
+   },
+   "checked_at": "2026-08-02T01:03:26+00:00"
   }
  },
- "updated_at": "2026-08-01T01:00:06+00:00"
+ "updated_at": "2026-08-02T01:03:26+00:00"
 }
