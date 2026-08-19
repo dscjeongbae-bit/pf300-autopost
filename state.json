@@ -1,11 +1,12 @@
 {
  "posted": [
   "01_itch-shower",
-  "01_shower-water"
+  "01_shower-water",
+  "02_chlorine-smell"
  ],
  "last": {
-  "set": "01_shower-water",
-  "media_id": "18097874939340656",
-  "sha": "d4e78447938c35d14ec323a15d7e734b3b2361fe"
+  "set": "02_chlorine-smell",
+  "media_id": "18112891256016874",
+  "sha": "3606a4322ecaf54d076b568739f55dfae417ffc8"
  }
 }
