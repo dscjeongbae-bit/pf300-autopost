@@ -2,9 +2,9 @@
  "account": {
   "username": "ilovewaterwel",
   "followers_count": 1971,
-  "media_count": 591,
+  "media_count": 592,
   "id": "27535024122821547",
-  "checked_at": "2026-08-27T04:35:40+00:00"
+  "checked_at": "2026-08-28T06:58:38+00:00"
  },
  "history": [
   {
@@ -181,6 +181,11 @@
    "date": "2026-08-27",
    "followers_count": 1971,
    "media_count": 591
+  },
+  {
+   "date": "2026-08-28",
+   "followers_count": 1971,
+   "media_count": 592
   }
  ],
  "media": {
@@ -198,7 +203,7 @@
     "total_interactions": 0,
     "views": 98
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18110088292975243": {
    "permalink": "https://www.instagram.com/p/DbC5PnLGUhD/",
@@ -214,7 +219,7 @@
     "total_interactions": 1,
     "views": 42
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17870656080555630": {
    "permalink": "https://www.instagram.com/reel/DakQLD-MQGu/",
@@ -230,7 +235,7 @@
     "total_interactions": 2,
     "views": 185
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18460437460119816": {
    "permalink": "https://www.instagram.com/reel/DajVNHLNFJp/",
@@ -246,7 +251,7 @@
     "total_interactions": 2,
     "views": 135
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18456004954113398": {
    "permalink": "https://www.instagram.com/p/DaUzEkuGROS/",
@@ -262,7 +267,7 @@
     "total_interactions": 1,
     "views": 49
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18546782800078781": {
    "permalink": "https://www.instagram.com/p/DaUx68OGb_T/",
@@ -278,7 +283,7 @@
     "total_interactions": 1,
     "views": 54
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17961270087136064": {
    "permalink": "https://www.instagram.com/p/DZo9AL3mRHW/",
@@ -294,7 +299,7 @@
     "total_interactions": 1,
     "views": 58
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18092543741360142": {
    "permalink": "https://www.instagram.com/p/DZMBWsKGbAB/",
@@ -310,7 +315,7 @@
     "total_interactions": 2,
     "views": 73
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18092900834109232": {
    "permalink": "https://www.instagram.com/p/DZMA_qEmQpt/",
@@ -326,7 +331,7 @@
     "total_interactions": 1,
     "views": 82
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18376268905161011": {
    "permalink": "https://www.instagram.com/p/DZMATwgmZHC/",
@@ -342,7 +347,7 @@
     "total_interactions": 2,
     "views": 64
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17863399317628545": {
    "permalink": "https://www.instagram.com/p/DYgsGyDmdMc/",
@@ -358,7 +363,7 @@
     "total_interactions": 4,
     "views": 56
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18102923986953403": {
    "permalink": "https://www.instagram.com/p/DX-zKPjGV8c/",
@@ -998,7 +1003,7 @@
     "total_interactions": 1,
     "views": 169
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17980252415878866": {
    "permalink": "https://www.instagram.com/p/DbI3ybzoCdm/",
@@ -1006,7 +1011,7 @@
    "timestamp": "2026-07-23T14:23:56+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 72,
+    "reach": 73,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -1014,7 +1019,7 @@
     "total_interactions": 1,
     "views": 115
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18604761604052513": {
    "permalink": "https://www.instagram.com/p/DbLaHKGoJo6/",
@@ -1030,7 +1035,7 @@
     "total_interactions": 1,
     "views": 96
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18096054119366311": {
    "permalink": "https://www.instagram.com/p/DbN9xEXG3ja/",
@@ -1046,7 +1051,7 @@
     "total_interactions": 0,
     "views": 62
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18369561052226981": {
    "permalink": "https://www.instagram.com/p/DbQhtprlGuy/",
@@ -1062,7 +1067,7 @@
     "total_interactions": 1,
     "views": 161
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18075890639359484": {
    "permalink": "https://www.instagram.com/p/DbTOXFYnKyb/",
@@ -1078,7 +1083,7 @@
     "total_interactions": 0,
     "views": 112
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17918466090199673": {
    "permalink": "https://www.instagram.com/p/DbVwNUamvV5/",
@@ -1094,7 +1099,7 @@
     "total_interactions": 0,
     "views": 87
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18105297958986457": {
    "permalink": "https://www.instagram.com/p/DbYUwjDlH1f/",
@@ -1110,7 +1115,7 @@
     "total_interactions": 0,
     "views": 95
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18091580219408324": {
    "permalink": "https://www.instagram.com/p/Dba5S3ZloTW/",
@@ -1126,7 +1131,7 @@
     "total_interactions": 1,
     "views": 102
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17896353945372697": {
    "permalink": "https://www.instagram.com/p/Dbdec-Hlnna/",
@@ -1142,7 +1147,7 @@
     "total_interactions": 0,
     "views": 66
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17881948758476242": {
    "permalink": "https://www.instagram.com/p/Dbf-cg9oE88/",
@@ -1150,7 +1155,7 @@
    "timestamp": "2026-08-01T13:44:38+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 77,
+    "reach": 78,
     "likes": 1,
     "comments": 0,
     "saved": 1,
@@ -1158,7 +1163,7 @@
     "total_interactions": 2,
     "views": 157
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18381426892206664": {
    "permalink": "https://www.instagram.com/p/DbijPPUoDcf/",
@@ -1174,7 +1179,7 @@
     "total_interactions": 0,
     "views": 41
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18127684618660259": {
    "permalink": "https://www.instagram.com/p/DblQYGbIKqG/",
@@ -1190,7 +1195,7 @@
     "total_interactions": 1,
     "views": 61
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17895853596376120": {
    "permalink": "https://www.instagram.com/p/Dbnya8noEmh/",
@@ -1206,7 +1211,7 @@
     "total_interactions": 1,
     "views": 139
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18119411884849869": {
    "permalink": "https://www.instagram.com/p/DbqWY8EEWiR/",
@@ -1222,7 +1227,7 @@
     "total_interactions": 0,
     "views": 79
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18124679893689039": {
    "permalink": "https://www.instagram.com/p/Dbs7hQvG0xS/",
@@ -1238,7 +1243,7 @@
     "total_interactions": 0,
     "views": 83
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18111818285069942": {
    "permalink": "https://www.instagram.com/p/DbvYY7Zm0V0/",
@@ -1254,7 +1259,7 @@
     "total_interactions": 0,
     "views": 88
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18021567539907064": {
    "permalink": "https://www.instagram.com/p/Dbx7X3-oGDD/",
@@ -1270,7 +1275,7 @@
     "total_interactions": 1,
     "views": 143
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18144296899537282": {
    "permalink": "https://www.instagram.com/p/Db0gdnMIOb0/",
@@ -1286,7 +1291,7 @@
     "total_interactions": 1,
     "views": 71
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17892803622597639": {
    "permalink": "https://www.instagram.com/p/Db3HYXolN_m/",
@@ -1294,7 +1299,7 @@
    "timestamp": "2026-08-10T13:25:14+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 58,
+    "reach": 59,
     "likes": 0,
     "comments": 0,
     "saved": 1,
@@ -1302,7 +1307,7 @@
     "total_interactions": 1,
     "views": 128
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17978545191097900": {
    "permalink": "https://www.instagram.com/p/Db5r3gPjlX7/",
@@ -1318,7 +1323,7 @@
     "total_interactions": 1,
     "views": 64
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18611671744019168": {
    "permalink": "https://www.instagram.com/p/Db8RGaZoI6-/",
@@ -1334,7 +1339,7 @@
     "total_interactions": 1,
     "views": 50
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17930215722382367": {
    "permalink": "https://www.instagram.com/p/Db-2Dt0lmt6/",
@@ -1350,7 +1355,7 @@
     "total_interactions": 0,
     "views": 149
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18090221009531364": {
    "permalink": "https://www.instagram.com/p/DcBaPUSloX4/",
@@ -1366,7 +1371,7 @@
     "total_interactions": 1,
     "views": 99
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17941852821289309": {
    "permalink": "https://www.instagram.com/p/DcAEaXLmVzq/",
@@ -1382,7 +1387,7 @@
     "total_interactions": 1,
     "views": 20
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17916620646431775": {
    "permalink": "https://www.instagram.com/p/DcD7imGEZRK/",
@@ -1398,7 +1403,7 @@
     "total_interactions": 0,
     "views": 156
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18088975430405302": {
    "permalink": "https://www.instagram.com/p/DcGggpbG8Mi/",
@@ -1414,7 +1419,7 @@
     "total_interactions": 1,
     "views": 110
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18095575418575875": {
    "permalink": "https://www.instagram.com/p/DcJFz0JG31O/",
@@ -1430,7 +1435,7 @@
     "total_interactions": 1,
     "views": 110
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18097874939340656": {
    "permalink": "https://www.instagram.com/p/DcLq15QHLzO/",
@@ -1446,7 +1451,7 @@
     "total_interactions": 0,
     "views": 61
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18112891256016874": {
    "permalink": "https://www.instagram.com/p/DcOPtNvIF77/",
@@ -1462,7 +1467,7 @@
     "total_interactions": 1,
     "views": 89
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17984780268107755": {
    "permalink": "https://www.instagram.com/p/DcQ0xXJFJFB/",
@@ -1470,7 +1475,7 @@
    "timestamp": "2026-08-20T13:02:52+0000",
    "caption_excerpt": "흰 수건이 누렇게 변한 적 있나요? 🚿  수압 약할 때 잠깐 나오는 누런 물 — 배관에서 녹아 나온 철입니다. 정수장에선 깨끗했어도, 우리 집 ",
    "metrics": {
-    "reach": 25,
+    "reach": 26,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -1478,7 +1483,7 @@
     "total_interactions": 1,
     "views": 67
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "17952690825214563": {
    "permalink": "https://www.instagram.com/p/DcTZdHblLsD/",
@@ -1494,7 +1499,7 @@
     "total_interactions": 1,
     "views": 49
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18004195952978433": {
    "permalink": "https://www.instagram.com/p/DcS5rN5GdYQ/",
@@ -1502,7 +1507,7 @@
    "timestamp": "2026-08-21T08:24:02+0000",
    "caption_excerpt": "💦 8월엔 워터웰 샤워기용 리필필터 할인!  매일 사용하는 샤워기 필터, 교체할 때가 되었다면 이번 기회를 놓치지 마세요✨  깨끗하고 산뜻한 샤",
    "metrics": {
-    "reach": 30,
+    "reach": 31,
     "likes": 0,
     "comments": 1,
     "saved": 0,
@@ -1510,7 +1515,7 @@
     "total_interactions": 1,
     "views": 48
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18117630400936010": {
    "permalink": "https://www.instagram.com/p/DcV9QgdIKKj/",
@@ -1518,15 +1523,15 @@
    "timestamp": "2026-08-22T12:53:17+0000",
    "caption_excerpt": "매일 쓰는 샤워기 헤드, 물 나오는 구멍 안쪽 들여다본 적 있으세요? 생각보다 지저분할 수 있어요.  물속 미네랄과 습기가 만나면 노즐 안쪽에 ",
    "metrics": {
-    "reach": 56,
+    "reach": 57,
     "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "views": 119
+    "views": 121
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18091609928640464": {
    "permalink": "https://www.instagram.com/p/DcYiMDLoHXW/",
@@ -1542,7 +1547,7 @@
     "total_interactions": 1,
     "views": 66
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18333204691261648": {
    "permalink": "https://www.instagram.com/p/DcbIGXOlgqA/",
@@ -1550,15 +1555,15 @@
    "timestamp": "2026-08-24T13:04:10+0000",
    "caption_excerpt": "환절기만 되면 온몸이 건조하고 가렵다면, 보습제만으론 부족할 수 있어요.  일교차와 낮아진 습도로 피부 장벽이 약해지는 시기예요. 이때 매일 하",
    "metrics": {
-    "reach": 30,
+    "reach": 35,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 56
+    "views": 62
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18350495401174248": {
    "permalink": "https://www.instagram.com/p/Dcdsgs5mwM9/",
@@ -1566,15 +1571,15 @@
    "timestamp": "2026-08-25T13:00:50+0000",
    "caption_excerpt": "Q. 정수기도 있는데 샤워물까지 걸러야 하나요?  A. 마시는 물과 씻는 물은 달라요. 정수기는 '마시는 물'을 걸러주죠. 하지만 샤워할 땐 그",
    "metrics": {
-    "reach": 24,
+    "reach": 29,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 55
+    "views": 70
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
   },
   "18145059358555574": {
    "permalink": "https://www.instagram.com/p/DcgR8_WDTni/",
@@ -1582,16 +1587,32 @@
    "timestamp": "2026-08-26T13:06:29+0000",
    "caption_excerpt": "샤워하고 나면 유독 몸이 가렵고 당기시나요? 그냥 건성 피부라서가 아닐 수 있어요.  수돗물엔 소독을 위한 잔류염소가 남아 있고, 뜨거운 물로 ",
    "metrics": {
-    "reach": 25,
-    "likes": 0,
+    "reach": 33,
+    "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
-    "total_interactions": 0,
-    "views": 54
+    "total_interactions": 1,
+    "views": 81
    },
-   "checked_at": "2026-08-27T04:35:40+00:00"
+   "checked_at": "2026-08-28T06:58:38+00:00"
+  },
+  "18132359812646212": {
+   "permalink": "https://www.instagram.com/p/Dcj0_1goFj0/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2026-08-27T22:10:26+0000",
+   "caption_excerpt": "매일 몸에 닿는 샤워물, 그냥 틀고 계세요? 🚿  마시는 물은 정수기로 거르면서 샤워물은 왜 그냥 쓸까요?  워터웰 PF-300 파워필터는 ✔ ",
+   "metrics": {
+    "reach": 8,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 13
+   },
+   "checked_at": "2026-08-28T06:58:38+00:00"
   }
  },
- "updated_at": "2026-08-27T04:35:40+00:00"
+ "updated_at": "2026-08-28T06:58:38+00:00"
 }
