@@ -7,11 +7,12 @@
   "03_filter-grade",
   "03_showerhead-scale",
   "04_water-temp",
-  "05_seasonal-dry"
+  "05_seasonal-dry",
+  "07_qna-purifier"
  ],
  "last": {
-  "set": "05_seasonal-dry",
-  "media_id": "18080120192331145",
-  "sha": "618f14d9872c4ae20c7fe6c1c976894dd9df8bad"
+  "set": "07_qna-purifier",
+  "media_id": "18069830963726857",
+  "sha": "e06f97c8a5547669604439261db98135d9af09ff"
  }
 }
