@@ -1,10 +1,10 @@
 {
  "account": {
   "username": "ilovewaterwel",
-  "followers_count": 1965,
-  "media_count": 610,
+  "followers_count": 1963,
+  "media_count": 611,
   "id": "27535024122821547",
-  "checked_at": "2026-09-10T01:14:04+00:00"
+  "checked_at": "2026-09-11T01:15:41+00:00"
  },
  "history": [
   {
@@ -251,6 +251,11 @@
    "date": "2026-09-10",
    "followers_count": 1965,
    "media_count": 610
+  },
+  {
+   "date": "2026-09-11",
+   "followers_count": 1963,
+   "media_count": 611
   }
  ],
  "media": {
@@ -1196,7 +1201,7 @@
     "total_interactions": 1,
     "views": 102
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17896353945372697": {
    "permalink": "https://www.instagram.com/p/Dbdec-Hlnna/",
@@ -1212,7 +1217,7 @@
     "total_interactions": 0,
     "views": 66
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17881948758476242": {
    "permalink": "https://www.instagram.com/p/Dbf-cg9oE88/",
@@ -1228,7 +1233,7 @@
     "total_interactions": 2,
     "views": 157
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18381426892206664": {
    "permalink": "https://www.instagram.com/p/DbijPPUoDcf/",
@@ -1244,7 +1249,7 @@
     "total_interactions": 0,
     "views": 41
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18127684618660259": {
    "permalink": "https://www.instagram.com/p/DblQYGbIKqG/",
@@ -1260,7 +1265,7 @@
     "total_interactions": 1,
     "views": 61
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17895853596376120": {
    "permalink": "https://www.instagram.com/p/Dbnya8noEmh/",
@@ -1276,7 +1281,7 @@
     "total_interactions": 1,
     "views": 139
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18119411884849869": {
    "permalink": "https://www.instagram.com/p/DbqWY8EEWiR/",
@@ -1292,7 +1297,7 @@
     "total_interactions": 0,
     "views": 79
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18124679893689039": {
    "permalink": "https://www.instagram.com/p/Dbs7hQvG0xS/",
@@ -1308,7 +1313,7 @@
     "total_interactions": 0,
     "views": 83
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18111818285069942": {
    "permalink": "https://www.instagram.com/p/DbvYY7Zm0V0/",
@@ -1324,7 +1329,7 @@
     "total_interactions": 0,
     "views": 88
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18021567539907064": {
    "permalink": "https://www.instagram.com/p/Dbx7X3-oGDD/",
@@ -1340,7 +1345,7 @@
     "total_interactions": 1,
     "views": 143
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18144296899537282": {
    "permalink": "https://www.instagram.com/p/Db0gdnMIOb0/",
@@ -1356,7 +1361,7 @@
     "total_interactions": 1,
     "views": 71
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17892803622597639": {
    "permalink": "https://www.instagram.com/p/Db3HYXolN_m/",
@@ -1364,7 +1369,7 @@
    "timestamp": "2026-08-10T13:25:14+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 64,
+    "reach": 65,
     "likes": 0,
     "comments": 0,
     "saved": 1,
@@ -1372,7 +1377,7 @@
     "total_interactions": 1,
     "views": 128
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17978545191097900": {
    "permalink": "https://www.instagram.com/p/Db5r3gPjlX7/",
@@ -1388,7 +1393,7 @@
     "total_interactions": 1,
     "views": 64
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18611671744019168": {
    "permalink": "https://www.instagram.com/p/Db8RGaZoI6-/",
@@ -1404,7 +1409,7 @@
     "total_interactions": 1,
     "views": 50
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17930215722382367": {
    "permalink": "https://www.instagram.com/p/Db-2Dt0lmt6/",
@@ -1420,7 +1425,7 @@
     "total_interactions": 0,
     "views": 149
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18090221009531364": {
    "permalink": "https://www.instagram.com/p/DcBaPUSloX4/",
@@ -1436,7 +1441,7 @@
     "total_interactions": 1,
     "views": 99
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17941852821289309": {
    "permalink": "https://www.instagram.com/p/DcAEaXLmVzq/",
@@ -1452,7 +1457,7 @@
     "total_interactions": 1,
     "views": 20
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17916620646431775": {
    "permalink": "https://www.instagram.com/p/DcD7imGEZRK/",
@@ -1468,7 +1473,7 @@
     "total_interactions": 0,
     "views": 162
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18088975430405302": {
    "permalink": "https://www.instagram.com/p/DcGggpbG8Mi/",
@@ -1484,7 +1489,7 @@
     "total_interactions": 1,
     "views": 110
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18095575418575875": {
    "permalink": "https://www.instagram.com/p/DcJFz0JG31O/",
@@ -1500,7 +1505,7 @@
     "total_interactions": 1,
     "views": 110
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18097874939340656": {
    "permalink": "https://www.instagram.com/p/DcLq15QHLzO/",
@@ -1516,7 +1521,7 @@
     "total_interactions": 0,
     "views": 61
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18112891256016874": {
    "permalink": "https://www.instagram.com/p/DcOPtNvIF77/",
@@ -1532,7 +1537,7 @@
     "total_interactions": 1,
     "views": 93
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17984780268107755": {
    "permalink": "https://www.instagram.com/p/DcQ0xXJFJFB/",
@@ -1548,7 +1553,7 @@
     "total_interactions": 1,
     "views": 74
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17952690825214563": {
    "permalink": "https://www.instagram.com/p/DcTZdHblLsD/",
@@ -1564,7 +1569,7 @@
     "total_interactions": 1,
     "views": 49
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18004195952978433": {
    "permalink": "https://www.instagram.com/p/DcS5rN5GdYQ/",
@@ -1580,7 +1585,7 @@
     "total_interactions": 1,
     "views": 51
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18117630400936010": {
    "permalink": "https://www.instagram.com/p/DcV9QgdIKKj/",
@@ -1596,7 +1601,7 @@
     "total_interactions": 3,
     "views": 130
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18091609928640464": {
    "permalink": "https://www.instagram.com/p/DcYiMDLoHXW/",
@@ -1612,7 +1617,7 @@
     "total_interactions": 1,
     "views": 73
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18333204691261648": {
    "permalink": "https://www.instagram.com/p/DcbIGXOlgqA/",
@@ -1628,7 +1633,7 @@
     "total_interactions": 1,
     "views": 71
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18350495401174248": {
    "permalink": "https://www.instagram.com/p/Dcdsgs5mwM9/",
@@ -1644,7 +1649,7 @@
     "total_interactions": 1,
     "views": 86
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18145059358555574": {
    "permalink": "https://www.instagram.com/p/DcgR8_WDTni/",
@@ -1660,7 +1665,7 @@
     "total_interactions": 1,
     "views": 89
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18132359812646212": {
    "permalink": "https://www.instagram.com/p/Dcj0_1goFj0/",
@@ -1676,7 +1681,7 @@
     "total_interactions": 1,
     "views": 43
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18126852847749691": {
    "permalink": "https://www.instagram.com/p/DcmZxQmmRGV/",
@@ -1684,15 +1689,15 @@
    "timestamp": "2026-08-28T22:10:15+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 48,
+    "reach": 49,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 101
+    "views": 102
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17972155310934218": {
    "permalink": "https://www.instagram.com/p/DcoYh1MFlin/",
@@ -1700,15 +1705,15 @@
    "timestamp": "2026-08-29T16:37:52+0000",
    "caption_excerpt": "흰 수건이 누렇게 변한 적 있나요? 🚿  수압 약할 때 잠깐 나오는 누런 물 — 배관에서 녹아 나온 철입니다. 정수장에선 깨끗했어도, 우리 집 ",
    "metrics": {
-    "reach": 26,
+    "reach": 27,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 53
+    "views": 54
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17961347798981052": {
    "permalink": "https://www.instagram.com/p/Dcr3pboGYXu/",
@@ -1724,7 +1729,7 @@
     "total_interactions": 3,
     "views": 25
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18113116649146719": {
    "permalink": "https://www.instagram.com/p/Dcq8w3SHOzH/",
@@ -1740,7 +1745,7 @@
     "total_interactions": 1,
     "views": 55
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18014490053936789": {
    "permalink": "https://www.instagram.com/p/Dcty7z4Ccx8/",
@@ -1748,15 +1753,15 @@
    "timestamp": "2026-08-31T19:04:49+0000",
    "caption_excerpt": "매일 쓰는 샤워기 헤드, 물 나오는 구멍 안쪽 들여다본 적 있으세요? 생각보다 지저분할 수 있어요.  물속 미네랄과 습기가 만나면 노즐 안쪽에 ",
    "metrics": {
-    "reach": 32,
+    "reach": 33,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "views": 68
+    "views": 69
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18130339465670272": {
    "permalink": "https://www.instagram.com/p/DcwF2yGG_KD/",
@@ -1772,7 +1777,7 @@
     "total_interactions": 1,
     "views": 77
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17982210072098175": {
    "permalink": "https://www.instagram.com/p/DcvR486GcOp/",
@@ -1788,7 +1793,7 @@
     "total_interactions": 1,
     "views": 20
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18135247849549518": {
    "permalink": "https://www.instagram.com/p/Dcyqb6pIF8T/",
@@ -1804,7 +1809,7 @@
     "total_interactions": 1,
     "views": 92
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18080120192331145": {
    "permalink": "https://www.instagram.com/p/Dc1OKt7Gb19/",
@@ -1820,7 +1825,7 @@
     "total_interactions": 1,
     "views": 45
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18069830963726857": {
    "permalink": "https://www.instagram.com/p/Dc3yYzjFXb5/",
@@ -1836,7 +1841,7 @@
     "total_interactions": 0,
     "views": 34
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17988342927019713": {
    "permalink": "https://www.instagram.com/p/Dc2T2ZwGZtS/",
@@ -1852,7 +1857,7 @@
     "total_interactions": 1,
     "views": 26
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18123972910883411": {
    "permalink": "https://www.instagram.com/p/Dc6O-G5G5sv/",
@@ -1868,7 +1873,7 @@
     "total_interactions": 0,
     "views": 67
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18120246514710434": {
    "permalink": "https://www.instagram.com/p/Dc82HmTG3Ft/",
@@ -1884,7 +1889,7 @@
     "total_interactions": 0,
     "views": 45
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17947438101271891": {
    "permalink": "https://www.instagram.com/p/Dc_q4GUmJHD/",
@@ -1892,15 +1897,15 @@
    "timestamp": "2026-09-07T17:40:43+0000",
    "caption_excerpt": "수돗물 틀 때 나는 그 '소독약 냄새', 정체가 뭘까요?  바로 잔류염소예요. 수돗물은 세균 번식을 막기 위해 염소로 소독하는데, 수도관을 지나",
    "metrics": {
-    "reach": 50,
+    "reach": 51,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 95
+    "views": 96
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17890999419612167": {
    "permalink": "https://www.instagram.com/p/DdCHjpMkdBc/",
@@ -1908,15 +1913,15 @@
    "timestamp": "2026-09-08T16:29:49+0000",
    "caption_excerpt": "흰 수건이 누렇게 변한 적 있나요? 🚿  수압 약할 때 잠깐 나오는 누런 물 — 배관에서 녹아 나온 철입니다. 정수장에선 깨끗했어도, 우리 집 ",
    "metrics": {
-    "reach": 17,
+    "reach": 18,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 33
+    "views": 36
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17967526383150987": {
    "permalink": "https://www.instagram.com/p/DdEr_JEEQbO/",
@@ -1924,15 +1929,15 @@
    "timestamp": "2026-09-09T16:26:37+0000",
    "caption_excerpt": "샤워필터 안에 뭐가 들었을까요? 🚿  비타민C, 세라믹 볼… 다 같은 샤워필터가 아닙니다. 진짜 정수 성능은 '필터 등급'에서 갈립니다.  워터",
    "metrics": {
-    "reach": 7,
+    "reach": 12,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 10
+    "views": 28
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "18365917777245594": {
    "permalink": "https://www.instagram.com/p/DdDGrzJmfQ-/",
@@ -1940,15 +1945,15 @@
    "timestamp": "2026-09-09T01:41:15+0000",
    "caption_excerpt": "🧡 8월의 혜택, 9월에도 한 번 더!  워터웰 상품을 5만원 이상 구매하면 비오틴 릴렉싱 샴푸 본품을 선물로 드려요🎁  은은한 은방울꽃 향과 ",
    "metrics": {
-    "reach": 11,
+    "reach": 13,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 20
+    "views": 23
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   },
   "17984664386882616": {
    "permalink": "https://www.instagram.com/p/DdDGHcRmS8G/",
@@ -1956,16 +1961,32 @@
    "timestamp": "2026-09-09T01:36:17+0000",
    "caption_excerpt": "🌕 풍성한 한가위, 워터웰과 함께 준비하세요 🎁  워터웰 × 네이버플러스 스토어 추석맞이 특별 세일을 진행합니다✨  주방부터 욕실까지 깨끗한 물",
    "metrics": {
-    "reach": 11,
+    "reach": 15,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "views": 19
+   },
+   "checked_at": "2026-09-11T01:15:41+00:00"
+  },
+  "18131139556677800": {
+   "permalink": "https://www.instagram.com/p/DdHPlozDn_V/",
+   "media_type": "CAROUSEL_ALBUM",
+   "timestamp": "2026-09-10T16:16:14+0000",
+   "caption_excerpt": "매일 쓰는 샤워기 헤드, 물 나오는 구멍 안쪽 들여다본 적 있으세요? 생각보다 지저분할 수 있어요.  물속 미네랄과 습기가 만나면 노즐 안쪽에 ",
+   "metrics": {
+    "reach": 23,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "views": 15
+    "views": 42
    },
-   "checked_at": "2026-09-10T01:14:04+00:00"
+   "checked_at": "2026-09-11T01:15:41+00:00"
   }
  },
- "updated_at": "2026-09-10T01:14:04+00:00"
+ "updated_at": "2026-09-11T01:15:41+00:00"
 }
