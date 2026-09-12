@@ -6,11 +6,12 @@
   "02_rust-water",
   "03_filter-grade",
   "03_showerhead-scale",
-  "04_water-temp"
+  "04_water-temp",
+  "05_seasonal-dry"
  ],
  "last": {
-  "set": "04_water-temp",
-  "media_id": "17905278786327089",
-  "sha": "b87a27acbd178a6532e12330607c015e0fb065b4"
+  "set": "05_seasonal-dry",
+  "media_id": "18268214098305523",
+  "sha": "c96c19dec89fa3a06535c34c361f5e6b04fa281a"
  }
 }
