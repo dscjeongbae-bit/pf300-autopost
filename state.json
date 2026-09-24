@@ -1,10 +1,11 @@
 {
  "posted": [
-  "01_itch-shower"
+  "01_itch-shower",
+  "01_shower-water"
  ],
  "last": {
-  "set": "01_itch-shower",
-  "media_id": "18010477526955037",
-  "sha": "070bc1cad8bc4daf79b87921595d2294bb0b025d"
+  "set": "01_shower-water",
+  "media_id": "18116555878785541",
+  "sha": "8033556282bf9def1190b548576755b92dd7d5b0"
  }
 }
