@@ -4,11 +4,12 @@
   "01_shower-water",
   "02_chlorine-smell",
   "02_rust-water",
-  "03_filter-grade"
+  "03_filter-grade",
+  "03_showerhead-scale"
  ],
  "last": {
-  "set": "03_filter-grade",
-  "media_id": "18120364865075709",
-  "sha": "e0aab3a0b8adca1f9507cec6953f517ed28dd1bd"
+  "set": "03_showerhead-scale",
+  "media_id": "18002413946880144",
+  "sha": "a37724c36ae8d4950afced1339489d307d6f8191"
  }
 }
