@@ -1,18 +1,10 @@
 {
  "posted": [
-  "01_itch-shower",
-  "01_shower-water",
-  "02_chlorine-smell",
-  "02_rust-water",
-  "03_filter-grade",
-  "03_showerhead-scale",
-  "04_water-temp",
-  "05_seasonal-dry",
-  "07_qna-purifier"
+  "01_itch-shower"
  ],
  "last": {
-  "set": "07_qna-purifier",
-  "media_id": "18398210968203405",
-  "sha": "090579936af24717a49521d7b9cd4c6750978d5a"
+  "set": "01_itch-shower",
+  "media_id": "18129063757930972",
+  "sha": "ceaac27a1faa609755cef7fe850d887a3417fc60"
  }
 }
